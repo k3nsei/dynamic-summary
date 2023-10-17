@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dynamic-summary.props" />
+</Project>
